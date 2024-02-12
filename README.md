@@ -17,7 +17,7 @@ Before starting, make sure you have Node.js installed on your system. This proje
 
 Navigate to the project directory:
 ```
-cd QUBIKA Cypress
+cd QUBIKA-Cypress
 ```
 Install the dependencies:
 
